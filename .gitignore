@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
+.gif
+=======
+>>>>>>> 50d8522bf14d08ccf5e7f2da82372e46cca8e3d6
